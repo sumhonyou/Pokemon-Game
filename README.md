@@ -28,10 +28,3 @@ A Java console application that simulates the “Battle and Catch” mode of the
 
 ---
 
-## Contributors
-1.   Sum Hon You 
-2.   Sia Jia Le
-3.   Ong Boon Heng
-4.   Tan Jun Han
-5.   Hew Jia Le
-
