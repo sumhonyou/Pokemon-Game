@@ -5,7 +5,7 @@
 ## About the Project
 **Project Name:** Pokémon Ga-Ole Console Game
 **Course:** PRG1203 – Object Oriented Programming Fundamentals  
-**Group Number:** 23
+**Group Number:** 23 <br>
 **Semester:** Year 1 Semester 3 – April 2024
 
 A Java console application that simulates the “Battle and Catch” mode of the Pokémon Ga-Ole arcade game. Designed to demonstrate strong object-oriented principles including modularity, inheritance, polymorphism, and encapsulation.
