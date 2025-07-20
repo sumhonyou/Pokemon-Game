@@ -1,0 +1,16 @@
+Charmander|300|Ember|Scratch|500|300|Fire
+Magmar|400|Burning Sensation|Smokescreen|700|500|Fire
+Squirtle|300|Water Gun|Tackle|400|200|Water
+Gyarados|600|Hydro Pump|Dragon Rage|900|700|Water
+Regice|500|Frost Smash|Iceberg Shield|400|300|Ice
+Lapras|800|Ice Beam|Body Slam|600|400|Ice
+Bulbasaur|300|Vine Whip|Growl|400|300|Grass
+Venusaur|500|Solar Beam|Sleep Powder|600|400|Grass
+Pikachu|300|Thunderbolt|Quick Attack|400|300|Lightning
+Raichu|400|Thunder|Slam|700|500|Lightning
+Ekans|300|Poison Sting|Wrap|400|350|Poison
+Arbok|400|Acid|Crunch|700|500|Poison
+Caterpie|300|Tackle|String Shot|200|250|Bug
+Butterfree|400|Bug Buzz|Sleep Powder|400|300|Bug
+Diglett|100|Mud-Slap|Growl|400|300|Ground
+Golem|500|Earthquake|Defense Curl|900|700|Ground
